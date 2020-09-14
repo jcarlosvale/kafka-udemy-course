@@ -1,4 +1,4 @@
-package com.github.learn.kafka;
+package kafka;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
